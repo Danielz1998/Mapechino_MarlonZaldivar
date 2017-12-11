@@ -1,0 +1,28 @@
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\bin\Debug\MaPeChiNo_Project.exe.config
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\bin\Debug\MaPeChiNo_Project.exe
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\bin\Debug\MaPeChiNo_Project.pdb
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\bin\Debug\MetroFramework.Design.dll
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\bin\Debug\MetroFramework.dll
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\bin\Debug\MetroFramework.Fonts.dll
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.csprojResolveAssemblyReference.cache
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.Properties.Resources.resources
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.csproj.GenerateResource.Cache
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.exe
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.pdb
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.Login.resources
+c:\users\norman hernandez\documents\visual studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.frmMenu.resources
+C:\Users\Norman Hernandez\Documents\Visual Studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.frmMostrarEmpleados.resources
+C:\Users\Norman Hernandez\Documents\Visual Studio 2012\Projects\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.frmMostrarClientes.resources
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\bin\Debug\MaPeChiNo_Project.exe.config
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.exe
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.pdb
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\bin\Debug\MaPeChiNo_Project.exe
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\bin\Debug\MaPeChiNo_Project.pdb
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.csprojResolveAssemblyReference.cache
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.frmMostrarClientes.resources
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.frmMostrarEmpleados.resources
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.Login.resources
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.frmMenu.resources
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.Properties.Resources.resources
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.csproj.GenerateResource.Cache
+C:\Users\Marlon\Desktop\MaPeChiNo_Project\MaPeChiNo_Project\obj\Debug\MaPeChiNo_Project.MantenimientoMemo.resources
